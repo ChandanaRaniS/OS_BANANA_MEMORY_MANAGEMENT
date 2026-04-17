@@ -9,13 +9,13 @@
 
 ---
 
-## 📖 Overview
+##  Overview
 
 This project explores key concepts of **Operating System Memory Management** through practical experiments and observations. It covers virtual memory, demand paging, page tables, copy-on-write, fragmentation, swapping, and thrashing.
 
 ---
 
-## ⚙️ Section-wise Summary
+##  Section-wise Summary
 
 ### 🔹 Section 0: Physical Memory
 
