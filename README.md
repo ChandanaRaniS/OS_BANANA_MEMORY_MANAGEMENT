@@ -129,7 +129,7 @@ This project explores key concepts of **Operating System Memory Management** thr
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 * GCC Compiler
 * Linux commands:
